@@ -1,0 +1,32 @@
+{
+  "name": "food-order-app",
+  "version": "1.0.0",
+  "description": "Food_order_app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjeev2111/Food_Order_app.git"
+  },
+  "author": "Sanjeev Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjeev2111/Food_Order_app/issues"
+  },
+  "homepage": "https://github.com/sanjeev2111/Food_Order_app#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "browersList": [
+    "last 2 versions"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  }
+}
